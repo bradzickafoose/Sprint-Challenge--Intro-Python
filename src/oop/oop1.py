@@ -20,6 +20,9 @@
 
 
 class Vehicle:
+    """
+    Base class
+    """
     pass
 
 
